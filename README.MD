@@ -1,7 +1,21 @@
 # DO NOT INSTALL THIS PACKAGE
 It will install all NPM package to your PC (Around 1.4Mil).
 
-But if you manage to install this module, here's how to use it
+# How to fucking in install it
+
+First to all make sure you have more than 4GB of ram,
+this fucking package is like, ram eater.
+
+```
+npm i xhayper/all-module —-max-old-space-size 8192
+```
+
+or
+
+```
+yarn add xhayper/all-module --max-old-space-size 8192
+```
+# if you somehow installed it, here's how to use it
 
 ```js
 const all_modules = require("all_modules");
