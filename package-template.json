@@ -1,0 +1,11 @@
+{
+  "name": "@xhayper/all-module",
+  "version": "2.0.1",
+  "description": "A shitty package the depend on all npm package",
+  "main": "index.js",
+  "author": "xhayper",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "dependencies": { }
+}
