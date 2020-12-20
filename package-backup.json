@@ -1,6 +1,6 @@
 {
   "name": "all-module",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A shitty package the depend on all npm package",
   "main": "index.js",
   "author": "hayper",
