@@ -5,9 +5,11 @@ But if you manage to install this module, here's how to use it
 
 ```js
 const all_modules = require("all_modules");
-// Now all_modules.{MODULE NAME} to use that module
+// Now use all_modules.{MODULE NAME} or all_modules["MODULE NAME"] to use that module
 all_modules.fs;
 all_modules.axios;
+all_modules["fs"];
+all_modules["axios"];
 ```
 
 # How to update it
